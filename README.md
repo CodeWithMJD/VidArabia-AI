@@ -1,5 +1,5 @@
 # VidArabia-AI
-#Tarjim-Whisper: AI Video Transcription & Translation
+Tarjim-Whisper: AI Video Transcription & Translation
 ترجم-ويسبر: تفريغ وترجمة الفيديوهات بالذكاء الاصطناعي
 Overview | نبذة عن المشروع
 EN: An automated tool designed to extract audio from videos, transcribe it using OpenAI's Whisper, and translate the text into Arabic using Helsinki-NLP models. The final output is a professional .srt file or a video with burned-in subtitles.
